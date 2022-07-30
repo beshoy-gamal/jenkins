@@ -16,6 +16,6 @@ pipeline {
 
   }
   environment {
-    Demo = '1'
+    Demo = '2'
   }
 }
